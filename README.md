@@ -1,2 +1,2 @@
 # FANTASTIC
-Mobile Application Programming
+Duck Tech
